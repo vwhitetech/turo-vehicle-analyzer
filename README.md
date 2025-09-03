@@ -11,7 +11,7 @@ Show Image
 🚀 Quick Start
 Local Installation
 bash# Clone the repository
-git clone https://github.com/yourusername/turo-vehicle-analyzer.git
+git clone https://github.com/vwhitetech@gmail.com/turo-vehicle-analyzer.git
 cd turo-vehicle-analyzer
 
 # Install dependencies
